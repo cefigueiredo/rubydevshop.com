@@ -11,6 +11,7 @@ Website coming soon... I guess.
 - [Code Genome](http://codegenome.com/en)
 - [Porkepic](http://porkepic.com/) *Saint-Hubert(FR)
 - [Lodgem](http://www.lodgem.com/en) *Sherbrooke
+- [Mentel](http://www.mentel.com/)
 
 #### Startups
 - [Shopify](http://www.shopify.ca/)
@@ -20,6 +21,8 @@ Website coming soon... I guess.
 - [Sonder](https://www.sonder.com/)
 - [Callbox](http://www.usecallbox.com/)
 - [Bookwitty](https://www.bookwitty.com/)
+- [Unsplash](http://www.unsplash.com/)
+- [Koolicar](http://www.koolicar.com/)
 
 #### Freelancers
 - ~~[Nicholas Henry](http://www.firsthand.ca/)~~
